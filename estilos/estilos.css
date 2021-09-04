@@ -55,3 +55,12 @@ body
 {
     background-color: sandybrown;
 }
+
+#footer
+{
+    background: #33A;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+}
